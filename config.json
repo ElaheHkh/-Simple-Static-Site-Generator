@@ -1,0 +1,19 @@
+{
+    "title": "My Designed Static Website!!!",
+    "head1": "This is header1",
+    "Header2":"This is Header2",
+    "Header3":"This is Header3",
+    "Header4":"This is Header4",
+
+    "paragraph1": "This is a paragraph as the First paragraph",
+    "paragraph2": "This is a paragraph as the Second paragraph",
+    "paragraph3": "This is a paragraph as the Third paragraph",
+    "Level1":"Level 1",
+    "Level2":"Level 2",
+    "Level3":"Level 3",
+    "code_link": "https://github.com/ElaheHkh",
+    "description": "My Designed Static Website with python",
+    "author": "Elaheh Hosseinkhani",
+    "url": "",
+    "identifier" : ""
+}
